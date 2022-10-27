@@ -29,3 +29,15 @@ c. What is the complement of set_1 and set_2?  {-7, -6,-5, -4, -3, -1, 1, 2, 3, 
 d. What is set_1 - set_2? {-2, 6}  
 e. What is set_2 - set_1? {-9, 5}  
 f. What is the symmetric difference between set_1 and set_2? {-9, -2, 5, 6}
+
+## Question 3
+
+The following questions relate to set_1 and set_2
+
+set_1 = {0, 1, 2, 3, 5, 8}  
+set_2 = {0, 1, 2, 3, 5, 8, 13, 21, 34}
+
+Fill in the blanks in the following sentences:
+
+Set_1 is a proper subset of Set_2.  This means it is also a subset.  
+Set_2 is a proper superset of Set_1. This means it is also a superset.
