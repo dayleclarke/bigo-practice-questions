@@ -41,3 +41,12 @@ Fill in the blanks in the following sentences:
 
 ______ is a proper subset of _____.  This means it is also a _______.  
 _______ is a proper superset of _______. This means it is also a ________.
+
+## Question 4
+
+State the set described in the following set notatations:
+a. set_1 = {x | x E Z}  
+b. set_2 = {x | x E N}  
+c. set_3 = {x | x E N; x < 5}
+d. set_4 = {x | x E Z; -5 < x < 5}  
+e. set_5 = {x | x E N; x < 10; NOT E set_3}

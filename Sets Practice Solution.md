@@ -40,4 +40,13 @@ set_2 = {0, 1, 2, 3, 5, 8, 13, 21, 34}
 Fill in the blanks in the following sentences:
 
 Set_1 is a proper subset of Set_2.  This means it is also a subset.  
-Set_2 is a proper superset of Set_1. This means it is also a superset.
+Set_2 is a proper superset of Set_1. This means it is also a superset.  
+
+## Question 4
+
+State the set described in the following set notatations:
+a. set_1 = {x | x E Z}  = all the postive and negative integers
+b. set_2 = {x | x E N}  = all integers above zero
+c. set_3 = {x | x E N; x < 5} = {1, 2, 3, 4}
+d. set_4 = {x | x E Z; -5 < x < 5}  = {-4, -3, -2, -1, 0, 1, 2, 3, 4}
+e. set_5 = {x | x E N; x < 10; NOT E set_3}= {5, 6, 7, 8, 9}
